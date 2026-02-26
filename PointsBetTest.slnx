@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PointsBet.Core.Tests/PointsBet.Core.Tests.csproj" />
+  <Project Path="PointsBet.Core/PointsBet.Core.csproj" />
+</Solution>
